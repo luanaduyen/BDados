@@ -1,6 +1,5 @@
 CREATE DATABASE Evento_Academico;
 USE Evento_Academico;
-
 CREATE TABLE eventoacad(
 id_evento INTEGER NOT NULL,
 nome_evento VARCHAR(128) NOT NULL,
